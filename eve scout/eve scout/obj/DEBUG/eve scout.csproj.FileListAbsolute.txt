@@ -1,0 +1,51 @@
+c:\users\critic\documents\visual studio 2012\Projects\eve scout\eve scout\bin\Debug\eve scout.exe.config
+c:\users\critic\documents\visual studio 2012\Projects\eve scout\eve scout\bin\Debug\eve scout.exe
+c:\users\critic\documents\visual studio 2012\Projects\eve scout\eve scout\bin\Debug\eve scout.pdb
+c:\users\critic\documents\visual studio 2012\Projects\eve scout\eve scout\obj\Debug\MainWindow.baml
+c:\users\critic\documents\visual studio 2012\Projects\eve scout\eve scout\obj\Debug\MainWindow.g.cs
+c:\users\critic\documents\visual studio 2012\Projects\eve scout\eve scout\obj\Debug\App.g.cs
+c:\users\critic\documents\visual studio 2012\Projects\eve scout\eve scout\obj\Debug\eve scout_MarkupCompile.cache
+c:\users\critic\documents\visual studio 2012\Projects\eve scout\eve scout\obj\Debug\eve scout.g.resources
+c:\users\critic\documents\visual studio 2012\Projects\eve scout\eve scout\obj\Debug\eve_scout.Properties.Resources.resources
+c:\users\critic\documents\visual studio 2012\Projects\eve scout\eve scout\obj\Debug\eve scout.csproj.GenerateResource.Cache
+c:\users\critic\documents\visual studio 2012\Projects\eve scout\eve scout\obj\Debug\eve scout.exe
+c:\users\critic\documents\visual studio 2012\Projects\eve scout\eve scout\obj\Debug\eve scout.pdb
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\bin\Debug\system.windows.controls.input.toolkit.dll
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\bin\Debug\WPFToolkit.dll
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\bin\Debug\system.windows.controls.input.toolkit.pdb
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\bin\Debug\WPFToolkit.pdb
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\obj\Debug\eve scout_MarkupCompile.lref
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\bin\Debug\eve scout.exe.manifest
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\bin\Debug\eve scout.application
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\obj\Debug\eve scout.TrustInfo.xml
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\obj\Debug\eve scout.exe.manifest
+C:\Users\critic\Documents\Visual Studio 2012\Projects\eve scout\eve scout\obj\Debug\eve scout.application
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\bin\Debug\eve scout.exe.config
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\eve scout.exe
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\eve scout.pdb
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\bin\Debug\eve scout.exe.manifest
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\bin\Debug\eve scout.application
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\bin\Debug\eve scout.exe
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\bin\Debug\eve scout.pdb
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\bin\Debug\system.windows.controls.input.toolkit.pdb
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\bin\Debug\WPFToolkit.pdb
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\eve scout.csprojResolveAssemblyReference.cache
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\MainWindow.g.cs
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\App.g.cs
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\eve scout_MarkupCompile.cache
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\eve scout_MarkupCompile.lref
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\MainWindow.baml
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\eve scout.g.resources
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\eve_scout.Properties.Resources.resources
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\eve scout.csproj.GenerateResource.Cache
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\eve scout.TrustInfo.xml
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\eve scout.exe.manifest
+C:\Users\cybercritic\Documents\Visual Studio 2012\projects\eve scout\eve scout\obj\Debug\eve scout.application
